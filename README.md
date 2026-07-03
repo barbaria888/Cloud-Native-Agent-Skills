@@ -187,25 +187,15 @@ AI assistant) can reason about GCP architecture, pick the right service, write
 secure IAM policies, and ship production code faster.
 
 The knowledge encoded here covers the full journey:
-
 | Stage | What You Learn |
-|<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,50:34A853,100:FBBC05&height=3&section=header"
-    width="100%"
-  />
-</p>|<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,50:34A853,100:FBBC05&height=3&section=header"
-    width="100%"
-  />
-</p>|
+|---|---| 
 | **Foundations** | Cloud native principles, GCP infrastructure, 12-factor app |
-| **Build** | Microservices, containers, Cloud Run, Cloud Functions, GKE |
+| **Build** | Microservices, containers, Cloud Run, Cloud Functions, GKE | 
 | **Operate** | CI/CD with Cloud Build, IaC with Terraform |
-| **Secure** | Zero-trust, IAM, Secret Manager, Cloud Armor, Workload Identity |
-| **Observe** | Logging, Monitoring, Tracing, OpenTelemetry, Alerting |
+| **Secure** | Zero-trust, IAM, Secret Manager, Cloud Armor, Workload Identity | 
+| **Observe** | Logging, Monitoring, Tracing, OpenTelemetry, Alerting | 
 | **Scale** | GKE Autopilot, Cloud Spanner, Memorystore |
+
 
 ### For the Cloud Native Ecosystem 🌐
 
@@ -354,17 +344,7 @@ The Observatory watches over everything.
 ## Built With
 
 | Tool / Resource | Purpose |
-|<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,50:34A853,100:FBBC05&height=3&section=header"
-    width="100%"
-  />
-</p>|<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,50:34A853,100:FBBC05&height=3&section=header"
-    width="100%"
-  />
-</p>|
+|---|---|
 | [book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Methodology for turning books into AI skills |
 | [Cloud Native Development with Google Cloud](https://www.oreilly.com/library/view/cloud-native-development/9781098145088/) (O'Reilly) | Source book |
 | [CNCF Landscape](https://landscape.cncf.io/) | Open standards reference |
