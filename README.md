@@ -43,17 +43,17 @@ This is **not** a book summary. It is a living engineering reference:
   />
 </p>
 
-###  Using This Skill with AI Coding Assistants
+### Using This Skill with AI Coding Assistants
 
 This repository follows the **book-to-skill** methodology and is designed to be consumed by AI coding assistants that support reusable Agent Skills or can use a local repository as context.
 
-##  1. Clone the Repository
+## 1. Clone the Repository
 
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repository>.git
-cd <your-repository>
+git clone https://github.com/barbaria888/Cloud-Native-Agent-Skills.git
+cd Cloud-Native-Agent-Skills
 ```
 
 <p align="center">
@@ -68,7 +68,7 @@ cd <your-repository>
 Install the repository as a local Agent Skill:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repository>.git \
+git clone https://github.com/barbaria888/Cloud-Native-Agent-Skills.git \
 ~/.claude/skills/cloud-native-development-gcp
 ```
 
@@ -98,7 +98,7 @@ Compare Cloud SQL and Cloud Spanner using the guidance in this skill.
 Install the repository into your skills directory:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repository>.git \
+git clone https://github.com/barbaria888/Cloud-Native-Agent-Skills.git \
 ~/.copilot/skills/cloud-native-development-gcp
 ```
 
